@@ -164,7 +164,7 @@ If you add/rename assets, do a **full restart** (not hot reload).
 ## 🤝 Acknowledgments
 
 * Orange Digital Center workshop
-* Mentored by **Madame \[Instructor Name]**
+* Mentored by **Madame Manel Kacem**
 
 ---
 
