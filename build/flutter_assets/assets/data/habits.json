@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Drink a glass of water upon waking",
+    "category": "Health",
+    "duration": "1 min",
+    "impact": "high",
+    "description": "This habit helps to reactivate the body, hydrate it, and improve digestion first thing in the morning.",
+    "tip": "Always keep a glass ready on your nightstand.",
+    "image": "assets/images/water.jpg"
+  },
+  {
+    "title": "Take 3 deep breaths",
+    "category": "Mental",
+    "duration": "2 min",
+    "impact": "medium",
+    "description": "Conscious breathing calms the nervous system and reduces stress.",
+    "tip": "Do it before a meeting or a class.",
+    "image": "assets/images/breathe.jpg"
+  },
+  {
+    "title": "Stand barefoot on grass",
+    "category": "Wellness",
+    "duration": "3 min",
+    "impact": "high",
+    "description": "Grounding helps reconnect with nature, reduce inflammation, and improve sleep quality.",
+    "tip": "Try it in the morning while having your tea or coffee.",
+    "image": "assets/images/grounding.jpg"
+  },
+  {
+    "title": "Write a one-sentence journal entry",
+    "category": "Personal Growth",
+    "duration": "2 min",
+    "impact": "medium",
+    "description": "Capturing a thought, feeling, or moment each day strengthens self-awareness and memory.",
+    "tip": "Use a dedicated notebook or note app.",
+    "image": "assets/images/journal.jpg"
+  }
+]
